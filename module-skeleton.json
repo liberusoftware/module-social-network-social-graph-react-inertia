@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-graph-react-inertia",
+  "capabilityKey": "liberusoftware/module-social-network-social-graph",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-social-network-social-graph-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/social-network/nextjs/social-graph.md",
+  "presentationPlan": "projects/social-network/react/social-graph.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
